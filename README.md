@@ -31,7 +31,7 @@ For each sass file in `app/sass` a minified CSS file is generated which gets sto
 
 ## Javascript
 
-For each JS file in `app/js` a minified JS file is generated which gets stored in the build `build/js` folder. Partials stored in `app/js/partials` can be included with `//= require partials/file.js`. Vendor JS assets can be stored in `app/vendor` and included with `//= ../vendor/file.js`. Bootstrap 3 is imported by default.
+For each JS file in `app/js` a minified JS file is generated which gets stored in the build `build/js` folder. Partials stored in `app/js/partials` can be included with `//= partials/file.js`. Vendor JS assets can be stored in `app/vendor` and included with `//= ../vendor/file.js`. Bootstrap 3 is imported by default.
 
 ## Templates
 
