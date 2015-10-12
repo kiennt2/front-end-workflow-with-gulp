@@ -5,4 +5,10 @@
 //if use compass
 //@import "../bower_components/bootstrap-sass/assets/stylesheets/bootstrap-compass";
 
+//import vendor
+@import "../vendor/owl.carousel/assets/owl.carousel";
+
+//Main style
+@import "partials/header";
 @import "custom";
+@import "partials/footer";
