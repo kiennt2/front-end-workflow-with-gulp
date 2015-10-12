@@ -1,0 +1,22 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "authors": [
+    "KienNguyen <kien.hnaptech@gmail.com>"
+  ],
+  "description": "myBowerFile",
+  "main": "bower",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "app/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "1.*",
+    "font-awesome": "fontawesome#~4.4.0",
+    "bootstrap-sass": "~3.3.5"
+  }
+}
